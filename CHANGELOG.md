@@ -1,5 +1,17 @@
 # 변경 기록 / Changelog
 
+## 0.9.2
+
+### 한국어
+
+- 다크 테마에서 일반 로고로 대체되지 않고 자리표시자가 표시되는 HA 2026.8 동작에
+  맞춰 다크 테마용 아이콘과 로고 파일을 명시적으로 추가했습니다.
+
+### English
+
+- Added explicit dark-theme icon and logo files for HA 2026.8 installations
+  that do not fall back to the regular local brand images.
+
 ## 0.9.1
 
 ### 한국어
