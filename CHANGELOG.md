@@ -1,5 +1,19 @@
 # 변경 기록 / Changelog
 
+## 0.9.1
+
+### 한국어
+
+- Home Assistant 2026.3 이상의 로컬 브랜드 이미지 기능을 사용해 공식 Narwal 앱
+  아이콘과 워드마크를 추가했습니다.
+- 일반 및 고해상도 화면용 이미지를 함께 제공해 통합·기기 화면에서 선명하게 표시됩니다.
+
+### English
+
+- Added the official Narwal app icon and wordmark using Home Assistant 2026.3+
+  local brand images.
+- Included standard and high-DPI variants for crisp integration and device UI.
+
 ## 0.9.0
 
 ### 한국어
